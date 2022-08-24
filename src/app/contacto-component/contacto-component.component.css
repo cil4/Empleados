@@ -1,0 +1,34 @@
+form{
+    margin: 30px auto;
+    width: 450px;
+    
+    
+    
+}
+textarea{
+    
+    resize: none;
+}
+input, textarea{
+    border-radius: 35px;
+    border-color: #0a58ca;
+  
+}
+label, input, textarea{
+    margin-bottom: 15px;
+    width: 100%;
+    text-align: center;
+   
+}
+h1{
+    text-align: center;
+    color: #0a58ca;
+    margin-top: 1em;
+}
+#enviar{
+    background-color: #0a58ca;
+    color: white;
+    width: 10em;
+    height: 2em;
+    margin-left: 30%;
+}

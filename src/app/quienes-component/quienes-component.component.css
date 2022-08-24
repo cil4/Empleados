@@ -1,0 +1,11 @@
+h1, h2{
+    color: #0a58ca;
+}
+p{
+    text-align:justify;
+
+}
+main{
+    display: inline-block;
+    margin: 0 30px;
+}
